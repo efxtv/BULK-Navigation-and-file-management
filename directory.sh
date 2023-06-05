@@ -1,4 +1,5 @@
 #!/bin/bash
+#NOTE:must not run this in the home directory or root directories with sudo. Use it for renaming files in the present working directory only
 #Bulk rename in bash
 a=1
 
