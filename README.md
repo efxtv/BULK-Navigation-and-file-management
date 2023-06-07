@@ -1,7 +1,6 @@
-# BULK-RENAME-IN-LINUX
-Bulk rename FILES WITH EXT using bash script IN LINUX.
+# BULK-NAVIGATION AND FILE MANAGEMENT -IN-LINUX
 
-# RENAME
+# FILES YOU CAN WORK WITH
 - JPG
 - EXE
 - ZIP
@@ -9,6 +8,9 @@ Bulk rename FILES WITH EXT using bash script IN LINUX.
 - TAR
 - MP3
 - GIF
+
+- Bulk rename files and directory
+- Bulk unzip and unrar
 
 t.me/efxtv
 Suggest if we can improve.
